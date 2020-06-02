@@ -1,0 +1,9 @@
+@import "./assets/styles/reset.css";
+@import "./assets/styles/grid.css";
+@import "./assets/styles/fonts.css";
+@import "./assets/styles/profile.card.css";
+@import "./assets/styles/feature.card.css";
+
+.container{
+    margin: 100px auto;
+}
