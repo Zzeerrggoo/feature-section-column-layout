@@ -20,7 +20,7 @@
     object-fit: cover;
 }
 
-.featureCard h1{
+.featureCard h3 {
     color: #2d3033;
     line-height: 1.1;
     font-family: Raleway, sans-serif;
