@@ -80,6 +80,9 @@
     box-sizing: border-box;
     padding: calc(var(--col-gutter) / 2);
     flex-basis: 100%;
+
+    display: flex;
+    justify-content: center;
 }
 
 .col{
